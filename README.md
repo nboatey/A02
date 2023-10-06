@@ -32,3 +32,20 @@ Tasks: Copy the Github.io URL into a browser | Post the URL into Moodle with you
 
 
 
+Branch- A collection of ordered commits that allows multiple people to work on  a project at the same time.
+Clone- The process of copying any remote repository to your computer.
+Commit-This is the command that gives Git its power. A checkpoint to which you can reevaluate or restore your project to any previous state.
+Fetch- This requests data from a server.
+GIT- A distributed version control system.
+Github- A platform for software development and version control using Git.
+Merge- when two branches are combined in the repository
+Merge Conflict- A problem that occurs when Git attempts to resolve changes to a specific line in a file, but that file has been changed in a different way through another commit
+Push-  To move changes from the local repository to the remote repository
+Pull-  A process used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+Remote- The place where your code is stored that is easily accesible
+Repository- A directory storage space where your projects can live. 
+
+
+
+
+
